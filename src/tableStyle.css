@@ -1,0 +1,15 @@
+table{
+    width: 60%;
+    border-spacing: 0px;
+    border: none;
+}
+th{
+   background-color: gray;
+}
+td{
+    border-bottom: 1px solid grey;
+}
+th,td{
+    text-align: left;
+    padding: 30px;
+}
