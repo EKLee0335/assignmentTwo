@@ -1,5 +1,5 @@
 table{
-    width: 60%;
+    width: 900px;
     border-spacing: 0px;
     border: none;
 }
@@ -8,6 +8,7 @@ th{
 }
 td{
     border-bottom: 1px solid grey;
+    width: 200px;
 }
 th,td{
     text-align: left;
